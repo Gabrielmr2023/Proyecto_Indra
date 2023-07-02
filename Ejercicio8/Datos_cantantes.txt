@@ -1,0 +1,22 @@
+--- INICIO DEL DOCUMENTO --- 
+ 
+Se van a tratar los siguientes cantantes: 
+Federico Juan Luisa 
+ 
+A continuacion devolveremos la informacion para cada cantante: 
+Nombre del cantante: Federico
+NumeroDeCanciones: 3
+NumeroDeReproducciones: 115615
+- Las ganancias totales : 2312.3€
+
+Nombre del cantante: Juan
+NumeroDeCanciones: 2
+NumeroDeReproducciones: 10006002
+- Las ganancias totales : 200120.04€
+
+Nombre del cantante: Luisa
+NumeroDeCanciones: 4
+NumeroDeReproducciones: 8500000
+- Las ganancias totales : 170000.0€
+
+--- FIN DEL DOCUMENTO ---
